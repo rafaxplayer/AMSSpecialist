@@ -1,0 +1,14 @@
+<resources>
+    <style name="Button">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:padding">5dp</item>
+        <item name="android:minWidth">88dp</item>
+        <item name="android:minHeight">36dp</item>
+        <item name ="android:textStyle">bold</item>
+        <item name="android:layout_marginTop">15dp</item>
+        <item name="android:elevation">1dp</item>
+        <item name="android:translationZ">1dp</item>
+        <item name="android:background">@drawable/ripplebutton</item>
+    </style>
+
+</resources>

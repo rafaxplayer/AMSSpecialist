@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme" parent="AppTheme.Base" />
+
+    <style name="AppTheme.Base" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:textColorPrimary">@color/textTitletColor</item>
+        <item name="windowActionBar">false</item>
+        <item name="android:windowBackground">@color/windowBackgroundColor</item>
+
+
+    </style>
+
+    <style name="AppTheme.Dialog" parent="Theme.AppCompat.Light.DialogWhenLarge">
+        <item name="colorPrimary">@color/colorPrimary</item>
+
+        <!--No xuta el bold style-->
+        <item name="android:windowBackground">@color/windowDialogColor</item>
+        <item name="android:textColorPrimary">@color/textTitletColor</item>
+
+
+
+    </style>
+
+
+</resources>

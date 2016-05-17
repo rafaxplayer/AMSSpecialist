@@ -1,0 +1,10 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="textlarge">22dp</dimen>
+    <dimen name="textmedium">18dp</dimen>
+    <dimen name="textsmall">16dp</dimen>
+    <dimen name="actionBarTitle1">30dp</dimen>
+    <dimen name="actionBarTitle2">20dp</dimen>
+    <dimen name="item_list_files_dimen">60dp</dimen>
+    <dimen name="item_text_drawable">60dp</dimen>
+</resources>

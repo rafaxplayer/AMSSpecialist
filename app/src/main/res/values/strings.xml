@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AMSSpecialist</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="general">General\u0020\u0020</string>
+    <string name="dudas">Questions\u0020\u0020</string>
+    <string name="noticias">News\u0020\u0020</string>
+    <string name="programas">Software\u0020\u0020  </string>
+    <string name="creaciones">AMS Creations\u0020\u0020  </string>
+    <string name="tutoriales">Tutorials\u0020\u0020  </string>
+    <string name="ejemplos">Examples and Template\u0020\u0020  </string>
+    <string name="desarrollo">Development\u0020\u0020  </string>
+    <string name="plugins">Plugins\u0020\u0020  </string>
+    <string name="utilidades">Tools\u0020\u0020  </string>
+    <string name="extras">Extras, Skins, buttons, etc…\u0020\u0020  </string>
+    <string name="factory">Setup Factory\u0020\u0020  </string>
+    <string name="ingles">English Section\u0020\u0020  </string>
+    <string name="programacion">Programing C#,vb,net…\u0020\u0020  </string>
+    <string name="comment_general">Here you can talk about anything you do not have a specific section.</string>
+    <string name="comment_dudas">Here you can ask questions or share your questions and knowledge about the program or the forum.</string>
+    <string name="comment_noticias">Here you can find all the news and updates regarding the forum and Autoplay Media Studio.</string>
+    <string name="comment_programas">Here you can find the latest versions of your favorite programs.</string>
+    <string name="comment_creaciones">Here you can put all the programs and utilities that have been created with AMS.</string>
+    <string name="comment_tutoriales">You can find all kinds of tutorials and manuals relating to AMS.</string>
+    <string name="comment_ejemplos">Examples and templates for Autoplay Media Studio.</string>
+    <string name="comment_desarrollo">This section is for those users is assuming you are developing plugins or applications and want help for these plugins or applications.</string>
+    <string name="comment_plugins">Plugins and everything related to Autoplay Media Studio.</string>
+    <string name="comment_utilidades">Utilities and tools that make life easier when programming in AMS.</string>
+    <string name="comment_extras">Resources, Skins and all the elements to make our projects.</string>
+    <string name="comment_factory">This section contains programs, extras, plugins, tutorials and other on Setup Factory.</string>
+    <string name="comment_ingles">This english section.</string>
+    <string name="comment_programacion">In this section you present your questions, tips, projects, etc… over other programming languages ​​such as c #.</string>
+    <string name="dialog_ok">Ok #</string>
+    <string name="dialog_ok_comment">Log in Succesfull</string>
+    <string name="dialog_error">Upss!</string>
+    <string name="dialog_error_comment">Log in Error</string>
+    <!-- Login activity strings -->
+    <string name="title_activity_login">Login</string>
+    <string name="prompt_user">User</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="no_user_login">No Login</string>
+    <!-- Notofications strings -->
+    <string name="news">Nuevas publicaciones</string>
+    <string name="news_mps">Nuevos mensajes privados</string>
+    <string name="news_mps_comment">Nuevos mensajes privados recividos en tu panel de usuario del foro</string>
+    <string name="news_post_comment">Desde aqui accederas a los nuevos mensajes publicados en el foro desde tu última visita</string>
+
+    <!-- Tabs -->
+    <string name="tab_forums">FORUMS</string>
+    <string name="tab_news">NEWS</string>
+    <string name="tab_notifications">NOTIFICATIONS</string>
+    <string name="tab_settings">SETTINGS</string>
+    <string name="notification">There are ### new posts since your last visit</string>
+    <string name="reload">Reload</string>
+    <!-- Drawner -->
+    <string name="item_visitforum">Visit Forums</string>
+    <string name="item_video">Video tutorials</string>
+    <string name="item_help">Help AMS</string>
+    <string name="item_facebook">Facebook</string>
+
+    <!-- AMSFiles types -->
+    <string-array name="string_menu_types">
+        <item>DataBases</item>
+        <item>Objects</item>
+        <item>DLLs</item>
+        <item>Plugins</item>
+        <item>Functions</item>
+        <item>Visual</item>
+        <item>Tutorials</item>
+        <item>Others</item>
+    </string-array>
+
+    <!-- Settings strings -->
+    <string name="settings_notification_category">NOTIFICACIONES</string>
+    <string name="settings_notification_receiver">Recivir Notificaciones</string>
+    <string name="settings_notification_receiver_summary">Recivir notificaciones cuando se publique un mensaje nuevo en el foro (Solo si estas logueado</string>
+    <string name="settings_notification_receiver_sound">Reproducir sonido notificaciones</string>
+    <string name="settings_notification_receiver_sound_summary">Notificaciones con sonido o no</string>
+    <string name="settings_notification_receiver_vibrate">Vibración</string>
+    <string name="settings_notification_receiver_vibrate_summary">Usar vibración en las notificaciones</string>
+    <string name="settings_RSS">RSS/FEED</string>
+    <string name="settings_RSS_title">Novedades</string>
+    <string name="settings_RSS_summary">Nª maximo de entradas rss(Max 50)</string>
+
+    <!-- dialogs strings -->
+    <string name="ok">OK</string>
+    <string name="Cancel">Cancel</string>
+    <string name="visit_post">visit post?</string>
+    <string name="exit">Exit?</string>
+    <string name="exit_question">Do you want to exit the application?</string>
+    <string name="close_session">Do I close session as </string>
+
+    <!-- share amsfile strings -->
+    <string name="send_to">Share AMSFile url to...</string>
+</resources>

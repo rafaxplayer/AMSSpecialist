@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/Share"
+        android:icon="@drawable/ic_action_share"
+        android:title="Share"
+
+        />
+    <item
+        android:id="@+id/Comment"
+        android:icon="@drawable/ic_action_comment"
+        android:title="Comment"
+
+        />
+    <item
+        android:id="@+id/download"
+        android:icon="@drawable/ic_action_download"
+        android:title="Download File"
+
+        />
+
+</menu>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AMSSpecialist</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="general">General\u0020\u0020</string>
+    <string name="dudas">Dudas\u0020\u0020  </string>
+    <string name="noticias">Noticias\u0020\u0020  </string>
+    <string name="programas">Programas\u0020\u0020  </string>
+    <string name="creaciones">Creaciones con AMS\u0020\u0020  </string>
+    <string name="tutoriales">Tutoriales\u0020\u0020  </string>
+    <string name="ejemplos">Ejemplos y Plantillas\u0020\u0020  </string>
+    <string name="desarrollo">Desarrollo\u0020\u0020  </string>
+    <string name="plugins">Plugins\u0020\u0020  </string>
+    <string name="utilidades">Utilidades\u0020\u0020  </string>
+    <string name="extras">Extras, Skins ,Botones ,etc&#8230;\u0020\u0020  </string>
+    <string name="factory">Setup Factory\u0020\u0020  </string>
+    <string name="ingles">English Section\u0020\u0020 </string>
+    <string name="programacion">Programación C#,vb,net&#8230;\u0020\u0020</string>
+    <string name="comment_general">Aquí podréis hablar de cualquier tema que no tenga un sección especifica.</string>
+    <string name="comment_dudas">Aquí puedes preguntar o compartir tus dudas y conocimientos acerca del programa o el foro.</string>
+    <string name="comment_noticias">Aquí puedes podras encontrar todas las noticias y novedades referentes al foro y Autoplay Media Studio.</string>
+    <string name="comment_programas">Aquí puedes encontraras las ultimas versiones de tus programas favoritos.</string>
+    <string name="comment_creaciones">Aquí pueden poner todos los programas y utilidades que hayan creado con AMS.</string>
+    <string name="comment_tutoriales">Puedes encontrar todo tipo de tutoriales y manuales referentes a AMS.</string>
+    <string name="comment_ejemplos">Ejemplos y plantillas para Autoplay Media Studio.</string>
+    <string name="comment_desarrollo">Esta sección esta es para todos aquellos usuarios que esteis desarrollando plugins o aplicaciones y quieran ayuda para dichos plugins o aplicaciones.</string>
+    <string name="comment_plugins">Plugins y todo lo relacionado para Autoplay Media Studio.</string>
+    <string name="comment_utilidades">Utilidades y herramientas que nos hacen la vida mas fácil al programar en AMS.</string>
+    <string name="comment_extras">Recursos , Skins y todos los elementos para confeccionar nuestros proyectos.</string>
+    <string name="comment_factory">Esta sección contiene programas, extras, plugins, tutoriales y demás sobre Setup Factory.</string>
+    <string name="comment_ingles">This english section.</string>
+    <string name="comment_programacion">En esta sección podréis exponer vuestras dudas, consejos, proyectos, etc&#8230; sobre otros lenguajes de programacion tales como c#.</string>
+    <string name="dialog_ok">Ok #</string>
+    <string name="dialog_ok_comment">Log in Succesfull</string>
+    <string name="dialog_error">Upss!</string>
+    <string name="dialog_error_comment">Log in Error</string>
+    <!-- Login activity strings -->
+    <string name="title_activity_login">Login</string>
+    <string name="prompt_user">User</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="no_user_login">No Login</string>
+    <!-- Notofications strings -->
+    <string name="news">Nuevas publicaciones</string>
+    <string name="news_mps">Nuevos mensajes privados</string>
+    <string name="news_mps_comment">Nuevos mensajes privados recividos en tu panel de usuario del foro</string>
+    <string name="news_post_comment">Desde aqui accederas a los nuevos mensajes publicados en el foro desde tu última visita</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_web">WebActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <!-- Tabs -->
+    <string name="tab_forums">FOROS</string>
+    <string name="tab_news">ULTIMAS ENTRADAS</string>
+    <string name="tab_notifications">NOTIFICACIONES</string>
+
+    <string name="tab_settings">AJUSTES</string>
+
+    <string-array name="string_menu_types">
+        <item>DataBases</item>
+        <item>Objects</item>
+        <item>DLLs</item>
+        <item>Plugins</item>
+        <item>Functions</item>
+        <item>Visual</item>
+        <item>Tutorials</item>
+        <item>Others</item>
+    </string-array>
+
+    <string name="notification">Hay ### mensajes nuevos desde tu última visita</string>
+    <string name="reload">Recargar</string>
+    <!-- Drawner -->
+    <string name="item_visitforum">Visitar Foro</string>
+    <string name="item_video">Video tutoriales</string>
+    <string name="item_help">Ayuda AMS</string>
+    <string name="item_facebook">Facebook</string>
+
+    <!-- Settings strings -->
+    <string name="settings_notification_category">NOTIFICACIONES</string>
+    <string name="settings_notification_receiver">Recibir Notificaciones</string>
+    <string name="settings_notification_receiver_summary">Recibir notificaciones cuando se publique un mensaje nuevo en el foro (Solo si estas logueado</string>
+    <string name="settings_notification_receiver_sound">Reproducir sonido notificaciones</string>
+    <string name="settings_notification_receiver_sound_summary">Notificaciones con sonido o no</string>
+    <string name="settings_notification_receiver_vibrate">Vibración</string>
+    <string name="settings_notification_receiver_vibrate_summary">Usar vibración en las notificaciones</string>
+    <string name="settings_RSS">RSS/FEED</string>
+    <string name="settings_RSS_title">Novedades</string>
+    <string name="settings_RSS_summary">Nª maximo de entradas rss(Max 50)</string>
+
+    <!-- dialogs strings -->
+    <string name="ok">Si</string>
+    <string name="Cancel">Cancelar</string>
+    <string name="visit_post">visitar hilo?</string>
+    <string name="exit">Salir?</string>
+    <string name="exit_question">Quieres salir de la aplicación?</string>
+    <string name="close_session">Cerrar sesion como </string>
+
+    <!-- share amsfile strings -->
+    <string name="send_to">Compartir AMSFile Url con...</string>
+</resources>

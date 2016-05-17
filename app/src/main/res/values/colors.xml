@@ -1,0 +1,14 @@
+<resources>
+    <color name="colorPrimary">#296eb3</color>
+    <color name="colorPrimaryDark">#064584</color>
+    <color name="colorSecondary">@color/material_deep_teal_200</color>
+    <color name="colorSecondaryDark">@color/material_deep_teal_500</color>
+    <color name="android_colorAccent">#599ee3</color>
+    <color name="windowBackgroundColor">#eee</color>
+    <color name="black_translucent">#80000000</color>
+    <color name="textTitletColor">#ffa7a7a0</color>
+    <color name="windowDialogColor">#ffffe2c4</color>
+    <color name="colorTabs">#89bfb8b9</color>
+    <color name="colorLine">#959595</color>
+    <color name="colorDrawer">#303030</color>
+</resources>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <PreferenceCategory
+        android:title="@string/settings_notification_category">
+
+        <CheckBoxPreference
+            android:key="notifishow"
+            android:title="@string/settings_notification_receiver"
+            android:summary="@string/settings_notification_receiver_summary"
+            android:defaultValue="true"/>
+
+        <CheckBoxPreference
+            android:key="notifisound"
+            android:title="@string/settings_notification_receiver_sound"
+            android:summary="@string/settings_notification_receiver_sound_summary"
+            android:defaultValue="false"/>
+        <CheckBoxPreference
+            android:key="notifyvibrate"
+            android:title="@string/settings_notification_receiver_vibrate"
+            android:summary="@string/settings_notification_receiver_vibrate_summary"
+            android:defaultValue="false"/>
+
+    </PreferenceCategory>
+    <PreferenceCategory
+        android:title="@string/settings_RSS">
+        <EditTextPreference
+            android:inputType="number"
+            android:key="rssentryes"
+            android:id="@+id/rssentry"
+            android:summary="@string/settings_RSS_summary"
+            android:title="RSS"
+            />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>
